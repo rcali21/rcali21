@@ -1,9 +1,6 @@
 ## PhD Student in Neuroscience	&#129504;
 
 
-
-
-
 <p>
 <img alt="Python" src="https://img.shields.io/badge/-Python-F7B93E?style=flat-square&logo=python&logoColor=white" />
 <img alt="Shell" src="https://img.shields.io/badge/-Shell-13aa52?style=flat-square&logo=Shell&logoColor=white" />
