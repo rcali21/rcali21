@@ -16,7 +16,7 @@
 <img src="https://user-images.githubusercontent.com/71532882/159825910-e28464b7-6783-4b19-9005-e78349256d7b.png" width="48"> <img src="https://user-images.githubusercontent.com/71532882/159825262-d8a2cab1-0d7a-4170-9a9b-553d16f85719.png" width="48"> 
 
 
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rcali21"/>
   
 
 
