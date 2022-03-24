@@ -1,4 +1,4 @@
-## Ryan Cali &nbsp; <p align="right"> <a href="https://github.com/rcali21" target="_blank"><img alt="Github" src="https://user-images.githubusercontent.com/71532882/159828163-ab05b147-bbdf-480c-ae58-e6b3278293bc.png" width="04%" /></a> &nbsp; <a href="https://twitter.com/Ryan__Cali" target="_blank"><img alt="Twitter" src="https://user-images.githubusercontent.com/71532882/159836551-f555d64f-b58f-45b7-ae4d-9ce6d2a4391f.png" width="04%" /></a> &nbsp; <a href="https://www.linkedin.com/in/ryan-cali-64201417a/" target="_blank"><img alt="LinkedIn" src="https://user-images.githubusercontent.com/71532882/159836706-ca534b68-5572-4821-8ee9-3e08698f5be3.png" width="04%"/></a>
+## Ryan Cali &nbsp; <p align="left"> <a href="https://github.com/rcali21" target="_blank"> [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/Ryan__Cali) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/braydon-coyer)
 
 <br>
 
@@ -13,7 +13,11 @@
 <br>
 <br>
 
-<p> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img alt="Dark" src="https://github-readme-stats.vercel.app/api/top-langs?username=rcali21&layout=compact" width="35%"> <p>
+
+  
+<a href="https://github.com/rcali21">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcali21&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
 
 
 
