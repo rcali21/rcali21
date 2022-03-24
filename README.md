@@ -16,13 +16,13 @@
 <img src="https://user-images.githubusercontent.com/71532882/159825910-e28464b7-6783-4b19-9005-e78349256d7b.png" width="48"> <img src="https://user-images.githubusercontent.com/71532882/159825262-d8a2cab1-0d7a-4170-9a9b-553d16f85719.png" width="48"> 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rcali21"/>
+
   
 
 
 
 
-<p><a href="https://github.com/rcali21" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Ryan__Cali" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/ryan-cali-64201417a/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<p><a href="https://github.com/rcali21" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Ryan__Cali" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/ryan-cali-64201417a/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <p>
 
 
 
