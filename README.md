@@ -25,11 +25,4 @@
 
 
 
-<br>
-
-
-
-
-![image](https://user-images.githubusercontent.com/71532882/159995448-3a3fe34a-5bba-43ae-b673-b5deddc31c9a.png)
-
 
