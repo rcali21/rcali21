@@ -1,6 +1,5 @@
 ## PhD Student in Neuroscience	&#129504;
 
-
 <p>
 <img alt="Python" src="https://img.shields.io/badge/-Python-F7B93E?style=flat-square&logo=python&logoColor=white" />
 <img alt="Shell" src="https://img.shields.io/badge/-Shell-13aa52?style=flat-square&logo=Shell&logoColor=white" />
@@ -12,7 +11,12 @@
 
 
 ### Current interests:
-Neuroscience, Medical Image Analysis (MRI), Deep Learning, Radiology, Translational Research
+<img src="https://user-images.githubusercontent.com/71532882/159825031-b8c2d528-7f52-43c1-84b9-86907e3d7da7.png" width="48"> <img src="https://user-images.githubusercontent.com/71532882/159825910-e28464b7-6783-4b19-9005-e78349256d7b.png" width="48"> <img src="https://user-images.githubusercontent.com/71532882/159825262-d8a2cab1-0d7a-4170-9a9b-553d16f85719.png" width="48"> 
+
+
+
+  
+
 
 
 
