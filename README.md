@@ -2,7 +2,17 @@
 
 <br>
 
+  
+  
+  
+
 ## PhD Student in Neuroscience <img src="https://user-images.githubusercontent.com/71532882/159825031-b8c2d528-7f52-43c1-84b9-86907e3d7da7.png" width="50" align=left >
+<br>
+<p align="center">
+<img src=https://user-images.githubusercontent.com/71532882/159840211-a96405ae-32fa-438e-a36d-2c8f7c87d720.jpg width="40%" align=center>
+
+  
+  
 
 <br>
 <br>
@@ -16,5 +26,6 @@
 <img alt="git" src="https://user-images.githubusercontent.com/71532882/159828163-ab05b147-bbdf-480c-ae58-e6b3278293bc.png" width="40" />
 </p>
 <p> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  <img alt="Dark" src="https://github-readme-stats.vercel.app/api/top-langs?username=rcali21&layout=compact" width="35%"> <p>
+
 
 
