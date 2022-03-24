@@ -1,5 +1,6 @@
-## PhD Student in Neuroscience	<img src="https://user-images.githubusercontent.com/71532882/159825031-b8c2d528-7f52-43c1-84b9-86907e3d7da7.png" width="48">
-
+## PhD Student in Neuroscience	<img src="https://user-images.githubusercontent.com/71532882/159825031-b8c2d528-7f52-43c1-84b9-86907e3d7da7.png" width="48" align=left >
+<br/><br/>
+ 
 <p>
 <img alt="Python" src="https://user-images.githubusercontent.com/71532882/159826537-f3cb14ee-065d-448d-a4d6-54a8c4e308fa.png" width="30"/>
 <img alt="Shell" src="https://user-images.githubusercontent.com/71532882/159827363-dd01e6aa-cfe7-461a-96f9-de29fad80129.png" width="30"/>
