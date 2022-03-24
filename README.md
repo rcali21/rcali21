@@ -4,7 +4,7 @@
 <br>
 
 
-## PhD Student in Neuroscience <img src="https://user-images.githubusercontent.com/71532882/159825031-b8c2d528-7f52-43c1-84b9-86907e3d7da7.png" width="50" align=left >
+## PhD Student in Neuroscience <img src="https://user-images.githubusercontent.com/71532882/159825031-b8c2d528-7f52-43c1-84b9-86907e3d7da7.png" width="60" align=left >
 <br>
 
 
