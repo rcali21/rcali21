@@ -1,11 +1,13 @@
 ## PhD Student in Neuroscience	&#129504;
 
 <p>
-<img alt="Python" src="https://img.shields.io/badge/-Python-F7B93E?style=flat-square&logo=python&logoColor=white" />
-<img alt="Shell" src="https://img.shields.io/badge/-Shell-13aa52?style=flat-square&logo=Shell&logoColor=white" />
-<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img alt="Python" src="https://user-images.githubusercontent.com/71532882/159826537-f3cb14ee-065d-448d-a4d6-54a8c4e308fa.png" width="30"/>
+<img alt="Shell" src="https://user-images.githubusercontent.com/71532882/159827363-dd01e6aa-cfe7-461a-96f9-de29fad80129.png" width="30"/>
+<img alt="Docker" src="https://user-images.githubusercontent.com/71532882/159827714-a4f5c21a-56a0-4ada-95c3-d7821dc0fff3.png" width="30" />
+<img alt="git" src="https://user-images.githubusercontent.com/71532882/159828163-ab05b147-bbdf-480c-ae58-e6b3278293bc.png" width="30" />
 <p>
+
+
 
 
 
