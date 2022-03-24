@@ -11,7 +11,7 @@
 
 <b>&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools&nbsp;-</b></summary>
   <br/>
-  <p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> &nbsp;&nbsp; <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> &nbsp;&nbsp; <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> &nbsp;&nbsp; <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  <p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> &nbsp;&nbsp; <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> &nbsp;&nbsp; <a href="https://jupyter.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/71532882/159995448-3a3fe34a-5bba-43ae-b673-b5deddc31c9a.png" alt="jupyter" width="40" height="40"/> &nbsp;&nbsp; <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> &nbsp;&nbsp; <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
 <a/>
 
 <br>
@@ -30,5 +30,6 @@
 
 
 
+![image](https://user-images.githubusercontent.com/71532882/159995448-3a3fe34a-5bba-43ae-b673-b5deddc31c9a.png)
 
 
