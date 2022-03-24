@@ -1,4 +1,4 @@
-## PhD Student in Neuroscience	&#129504;
+## PhD Student in Neuroscience	<img src="https://user-images.githubusercontent.com/71532882/159825031-b8c2d528-7f52-43c1-84b9-86907e3d7da7.png" width="48">
 
 <p>
 <img alt="Python" src="https://user-images.githubusercontent.com/71532882/159826537-f3cb14ee-065d-448d-a4d6-54a8c4e308fa.png" width="30"/>
@@ -13,7 +13,7 @@
 
 
 ### Current interests:
-<img src="https://user-images.githubusercontent.com/71532882/159825031-b8c2d528-7f52-43c1-84b9-86907e3d7da7.png" width="48"> <img src="https://user-images.githubusercontent.com/71532882/159825910-e28464b7-6783-4b19-9005-e78349256d7b.png" width="48"> <img src="https://user-images.githubusercontent.com/71532882/159825262-d8a2cab1-0d7a-4170-9a9b-553d16f85719.png" width="48"> 
+<img src="https://user-images.githubusercontent.com/71532882/159825910-e28464b7-6783-4b19-9005-e78349256d7b.png" width="48"> <img src="https://user-images.githubusercontent.com/71532882/159825262-d8a2cab1-0d7a-4170-9a9b-553d16f85719.png" width="48"> 
 
 
 
