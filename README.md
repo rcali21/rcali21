@@ -9,7 +9,7 @@
 <br> 
 
 <p align="center">
-<b>Current&nbsp;Interests&nbsp;-</b></summary> 
+<b>Current&nbsp;Interests&nbsp;</b></summary> 
 
 
 <br>
