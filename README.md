@@ -20,5 +20,6 @@
 <b>&nbsp;&nbsp;&nbsp;&nbsp;Deep learning <br> <br> 
 </p>
 
-<a href="https://github.com/rcali21">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcali21&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" align="center"/>
+<p align="center">
+<a href="https://github.com/rcali21"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcali21&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34"/>
 </a>
