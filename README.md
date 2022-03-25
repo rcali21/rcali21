@@ -10,12 +10,13 @@
 <br>
 <br> 
 
-<b>&nbsp;&nbsp;Current&nbsp;Interests&nbsp;-</b></summary> 
+<b>Current&nbsp;Interests&nbsp;-</b></summary> 
 <br>
-<b>&nbsp;&nbsp;Magnetic Resonance Imaging 
-<br> <br> <b>&nbsp;&nbsp;Medical Image Analysis 
-<br> <br> <b>&nbsp;&nbsp;Diffusion Imaging 
-<br> <br> <b>&nbsp;&nbsp;Deep learning <br> <br> 
+<br>
+<b>Magnetic Resonance Imaging 
+<b>&nbsp;&nbsp;&nbsp;&nbsp;Medical Image Analysis 
+<b>&nbsp;&nbsp;&nbsp;&nbsp;Diffusion Imaging 
+<b>&nbsp;&nbsp;&nbsp;&nbsp;Deep learning <br> <br> 
 
 
 
