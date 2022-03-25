@@ -6,19 +6,14 @@
 <a/>
 
 
-
-
-
-
-<br>
 <br> 
 
+
+
+### <p align="center"> Current&nbsp;Interests&nbsp;</b></summary> 
+
+
 <p align="center">
-<b>Current&nbsp;Interests&nbsp;-</b></summary> 
-
-
-<br>
-<br>
 <b>Magnetic Resonance Imaging 
 <b>&nbsp;&nbsp;&nbsp;&nbsp;Medical Image Analysis 
 <b>&nbsp;&nbsp;&nbsp;&nbsp;Diffusion Imaging 
