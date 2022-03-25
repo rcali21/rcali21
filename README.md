@@ -19,10 +19,6 @@
 <b>&nbsp;&nbsp;&nbsp;&nbsp;Diffusion Imaging 
 <b>&nbsp;&nbsp;&nbsp;&nbsp;Deep learning <br> <br> 
 </p>
-
-
-
-
 <p align="center" p>
-<img src="https://user-images.githubusercontent.com/71532882/160036123-4895fe96-cad7-463d-9420-373acf2b0c60.png" width="500"/>
-  
+<img src="https://user-images.githubusercontent.com/71532882/160036467-950988f0-b0f1-456c-8ab2-d2fcbe246c5f.png" width="500"/>
+
