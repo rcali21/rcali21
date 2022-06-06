@@ -8,6 +8,7 @@
 
 
 
+
 ### <p align="center"> Current&nbsp;Interests&nbsp;</b></summary> 
 
 
@@ -17,6 +18,8 @@
 <b>&nbsp;&nbsp;&nbsp;&nbsp;Diffusion Imaging 
 <b>&nbsp;&nbsp;&nbsp;&nbsp;Deep learning <br> <br> 
 </p>
+
+<img src="https://user-images.githubusercontent.com/71532882/172216331-00b76884-a1ce-48ad-b036-6402a504be63.png" width="150" align=center>
 
 <p align="center">
 <a href="https://github.com/rcali21"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcali21&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34"/>
