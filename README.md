@@ -14,8 +14,8 @@
 
 <p align="center">
 <b>Magnetic Resonance Imaging 
-<b>&nbsp;&nbsp;&nbsp;&nbsp;Medical Image Analysis 
-<b>&nbsp;&nbsp;&nbsp;&nbsp;Diffusion Imaging 
+<b>&nbsp;&nbsp;&nbsp;&nbsp;Neuroinformatics 
+<b>&nbsp;&nbsp;&nbsp;&nbsp;Computer Vision
 <b>&nbsp;&nbsp;&nbsp;&nbsp;Deep learning <br> <br> 
 </p>
 
